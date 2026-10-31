@@ -25,5 +25,5 @@ This board takes 5V from any standard USB-C charger and powers 5 white LEDs. It 
 *   **Design Verification:** Passed DRC with 0 Errors and 0 Unconnected Items.
 
 ## 🖼️ Design Gallery
-![3D Render](Images/3d_render.png)
+![3D Render](Images/light1.1.png)
 *(Note: Ensure the image filename matches your uploaded file)*
